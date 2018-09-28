@@ -1,29 +1,36 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: AGH University of Science and Technology
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
-  date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: I've started master's studies
+  date: 
+    detail: Feburary 2018
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    detail: Computer Science Student
+  icon: fa-graduation-cap
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: Comarch
+    i18n: company_a
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: I worked at Comarch as a summer trainee
+    i18n: company_a_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: July 2016
+    i18n: company_a_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    detail: Summer Intern
+    i18n: company_a_job
+  icon: icon-spring
+
+- name:
+    detail: AGH Univiersity of Science and Technology
+  desc:
+    detail: I graduated in engineering studies in Febuary 2018
+  
+  job:
+    detail: Computer Science Student
+  date:
+    detail: October 2014
+  icon: fa-graduation-cap
